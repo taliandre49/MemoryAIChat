@@ -1,0 +1,12 @@
+streamlit
+azure-cognitiveservices-speech
+transformers
+Pillow
+requests
+torch
+gtts
+audio-recorder-streamlit
+chromadbx
+pydub
+markdown
+openai
