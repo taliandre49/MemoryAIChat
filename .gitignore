@@ -1,0 +1,5 @@
+# Untracked files (i.e don't commit the dokercompose with sensitive info):
+*.yml
+**/*.yml
+/docker-compose.yml
+**/.env

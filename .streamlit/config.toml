@@ -1,0 +1,13 @@
+[theme]
+
+# Primary interface elements. Ex: st.slider and st.checkbox
+primaryColor = "#5340FF" #purple 
+
+# Background color for the main container.
+backgroundColor = "#FEFEFE"
+
+# Background for most widgets. Ex: st.sidebar, st.text_input, st.date_input.
+secondaryBackgroundColor =  "#D5D0FF"
+
+textColor = "#black"
+font = "sans serif"

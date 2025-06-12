@@ -1,0 +1,571 @@
+{
+  "documents": [
+    {
+      "description": "Barton Hall is an on-campus field house on the campus of Cornell University in Ithaca, New York. It is the site of the school's indoor track facilities, ROTC offices and classes, and Cornell Police. For a long time, Barton Hall was the largest unpillared room in existence.",
+      "metadata": {
+        "location": "Barton Hall",
+        "type": "campus_building",
+        "image_url": "https://venuellama.com/wp-content/uploads/formidable/18/bh-1-4.jpg"
+      }
+    },
+    {
+      "description": "This building holds many stressful memories of exams. My biology exam was in here, for some reason the room was freezing and all the questions were really long and tricky.",
+      "metadata": {
+        "location": "Barton Hall",
+        "type": "personal_memory",
+        "class_year": "junior",
+        "semester": "Fall 2023",
+        "memory": "sad"
+      }
+    },
+    {
+      "description": "The giant space was perfect for club fest! I learned about many cool clubs here and made many friends. The club performances were very inspiring. My first impression of the student body of Cornell couldn't be better.",
+      "metadata": {
+        "location": "Barton Hall",
+        "type": "personal_memory",
+        "class_year": "freshman",
+        "memory": "happy"
+      }
+    },
+    {
+      "description": "Libe Slope is a steep hillside on Cornell's campus, offering breathtaking views of Cayuga Lake. It is a popular spot for students to relax and enjoy the scenery.",
+      "metadata": {
+        "location": "Libe Slope",
+        "type": "campus_landmark",
+        "image_url": "https://i1.wp.com/cornellsun.com/wp-content/uploads/2021/10/HR-1532-scaled.jpg?resize=1536%2C1024&ssl=1"
+      }
+    },
+    {
+      "description": "My first time sledding was on this slope. I had so much fun and the slope was just perfectly covered in a thick blanket of snow. My hands froze to the bone from getting wet from the snow but it was still fun. My favorite was sledding racing with my friends. I won of course!",
+      "metadata": {
+        "location": "Libe Slope",
+        "season": "winter",
+        "type": "personal_memory",
+        "class_year": "sophomore",
+        "memory": "happy",
+        "setting": "outdoors"
+      }
+    },
+    {
+      "description": "The sunset from libe slope was very beautiful and scenic. I took many pictures because the sky was purple and pink which I have never seen before. The sunsets from the slope are my favorite. I saw some hot air balloons pass in the far distance too.",
+      "metadata": {
+        "season": "spring",
+        "type": "personal_memory",
+        "memory": "happy",
+        "location": "Libe Slope",
+        "setting": "nature"
+      }
+    },
+    {
+      "description": "Olin Library is a central academic hub at Cornell, housing thousands of books and providing study spaces for students. It is known for its extensive research resources.",
+      "metadata": {
+        "location": "Olin Library",
+        "type": "campus_building",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cornell_Olin_Library_2.jpg/760px-Mapcarta.jpg"
+      }
+    },
+    {
+      "description": "Olin Library is a nice but busy library to study in between classes. I got the code with access to the grad study lounge because it is less busy. I like studying here. I always like to get a drink from the cafe in the library.",
+      "metadata": {
+        "location": "Olin Library",
+        "type": "personal_memory",
+        "memory": "busy",
+        "setting": "study"
+      }
+    },
+    {
+      "description": "Goldwin Smith Hall is home to Cornell's College of Arts and Sciences. It features classrooms, lecture halls, and offices for humanities departments.",
+      "metadata": {
+        "location": "Goldwin Smith Hall",
+        "type": "campus_building",
+        "image_url": "https://i2.wp.com/cornellsun.com/wp-content/uploads/2018/10/Pg.-1-Goldwin-Smith-Hall.jpg?resize=1170%2C781&ssl=1x"
+      }
+    },
+    {
+      "description": "I had a class in Goldwin Smith Hall for my English writing seminar with Professor Cynthia Robinson. It was a fun class that I learned a lot from. I did not like writing though. Goldwin Smith was always a good place for pausing between classes or club meetings.",
+      "metadata": {
+        "location": "Goldwin Smith Hall",
+        "class_year": "freshman",
+        "type": "personal_memory",
+        "setting": "class",
+        "memory": "good"
+      }
+    },
+    {
+      "description": "Cynthia Robinson was a professor at Cornell. I took her English writing seminar course. She was stern but had an interesting sense of humor. She frequently called on us which was not fun. She also gave confusing feedback on essays. But she had a cute pet rabbit.",
+      "metadata": {
+        "type": "person",
+        "name": "Cynthia Robinson",
+        "relationship": "professor",
+        "image_url": "https://people.as.cornell.edu/sites/default/files/styles/person_image/public/cynthia-robinson.jpg"
+      }
+    },
+    {
+      "description": "Willard Straight Hall is a student union building at Cornell, offering dining options, study spaces, and venues for student activities and events.",
+      "metadata": {
+        "location": "Willard Straight Hall",
+        "type": "campus_building",
+        "image_url": "https://en.wikipedia.org/wiki/File:Willard_Straight_Hall,_Cornell_University.jpg"
+      }
+    },
+    {
+      "description": "The dining hall Okenshields was in here. One evening they served sesame balls and it was delicious. I went back but did not see them again. I think the food is ok otherwise. They also serve clam chowder sometimes that I love.",
+      "metadata": {
+        "location": "Willard Straight Hall",
+        "setting": "dining hall",
+        "type": "personal_memory",
+        "memory": "happy",
+        "activity": "food",
+        "class_year": "junior"
+      }
+    },
+    {
+      "description": "Baker Tower is a residential building on Cornell's West Campus, offering housing for upper-level and graduate students.",
+      "metadata": {
+        "location": "Baker Tower",
+        "type": "campus_building",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Baker_Tower%2C_Cornell_University.jpg"
+      }
+    },
+    {
+      "description": "Baker Tower was my dorm. My room was at the very top floor which was so exhausting to walk up to. But my room was a single with no roommates so I did not have issues and organized my room nicely to my liking. The floormates were all nice people but someone always left a mess in the bathroom.",
+      "metadata": {
+        "location": "Baker Tower",
+        "class_year": "sophomore",
+        "setting": "dorm",
+        "type": "personal_memory",
+        "memory": "not good"
+      }
+    },
+    {
+      "description": "Beebe Lake is a serene body of water near Cornell's North Campus, surrounded by walking trails and offering a peaceful retreat for students and visitors.",
+      "metadata": {
+        "location": "Beebe Lake",
+        "type": "natural_landmark",
+        "image_url": "https://alumni.cornell.edu/cornellians/wp-content/uploads/sites/2/2023/07/2019_1265_039-A-1264x711.jpg"
+      }
+    },
+    {
+      "description": "I remember walking around Beebe Lake on a peaceful afternoon. The stillness of the water and the surrounding trails made it the perfect spot to clear my mind and take in nature\u2019s beauty.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Beebe Lake",
+        "memory": "peaceful",
+        "setting": "outdoors"
+      }
+    },
+    {
+      "description": "Cayuga Lake is one of the Finger Lakes near Ithaca, offering opportunities for boating, fishing, and enjoying scenic views. It is a popular destination for locals and tourists.",
+      "metadata": {
+        "location": "Cayuga Lake",
+        "type": "natural_landmark",
+        "image_url": "https://www.fllt.org/wp-content/uploads/2017/03/shoreline-aerial2_10.19.2016-005.jpg"
+      }
+    },
+    {
+      "description": "Cayuga Lake offers stunning views, and I loved spending time there, whether boating or just sitting by the shore. The sunsets over the lake are unforgettable.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Cayuga Lake",
+        "memory": "scenic",
+        "setting": "outdoors"
+      }
+    },
+    {
+      "description": "Stewart Park is a public park in Ithaca, featuring playgrounds, open fields, and beautiful views of Cayuga Lake. It is a great spot for picnics and relaxation.",
+      "metadata": {
+        "location": "Stewart Park",
+        "type": "nearby_attraction",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/59e8ffbc017db27f7ad313cf/1641488707364-3TLDLTDT6HTYS98L6KSE/stewart+park+trees.jpg?format=1000w"
+      }
+    },
+    {
+      "description": "Stewart Park was the perfect place to unwind on weekends. The playgrounds were always full of energy, and I loved the views of Cayuga Lake from the open fields. It became my go-to spot to relax.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Stewart Park",
+        "memory": "relaxing",
+        "setting": "outdoors"
+      }
+    },
+    {
+      "description": "Ithaca Target is a retail store near Cornell's campus, providing students and residents with convenient access to groceries, clothing, and household items.",
+      "metadata": {
+        "location": "Ithaca Target",
+        "type": "nearby_attraction",
+        "image_url": "https://www.masonam.com/wp-content/uploads/2017/12/Ithaca_img1-2.jpg"
+      }
+    },
+    {
+      "description": "I remember the convenience of Ithaca Target. I always replaced my shampoo here. But one time I forgot my wallet in the car and needed to walk out of the checkout area and suspiciously walk back. It was awkward explaining the situation but the Target employees were very understanding!",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Ithaca Target",
+        "memory": "convenient",
+        "setting": "shopping"
+      }
+    },
+    {
+      "description": "The Temple of Zeus is a popular caf\u00e9 located in the heart of Cornell's campus. Known for its cozy atmosphere, it is a favorite spot for students and faculty to gather and enjoy coffee or snacks.",
+      "metadata": {
+        "location": "Temple of Zeus",
+        "type": "campus_landmark",
+        "image_url": "https://as.cornell.edu/sites/default/files/styles/6_4_large/public/inline-article-images/zeus-032-6293-600px.jpg?itok=yDXY6u2E"
+      }
+    },
+    {
+      "description": "The Temple of Zeus was a popular spot to catch up with friends or grab a quick coffee between classes. But I could never study here. The tables were always full so it was not very easy to study at. The cafe only took credit card so I never frequented the place either.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Temple of Zeus",
+        "memory": "annoyed",
+        "setting": "campus"
+      }
+    },
+    {
+      "description": "Cornell Law School is located on the university's campus and is known for its prestigious programs and beautiful architecture. It includes lecture halls, libraries, and spaces for legal research.",
+      "metadata": {
+        "location": "Cornell Law School",
+        "type": "campus_building",
+        "image_url": "https://www.lawschool.cornell.edu/wp-content/uploads/2020/09/UP_2016_1502_131_pano_select_1380x360_acf_cropped.jpg"
+      }
+    },
+    {
+      "description": "I spent a lot of time at Cornell Law School, especially during events and lectures. It was a beautiful building, and the space made me feel connected to the university's academic legacy.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Cornell Law School",
+        "memory": "inspiring",
+        "setting": "campus"
+      }
+    },
+    {
+      "description": "Gates Hall is the home of Cornell's Computing and Information Science department. It is a cutting-edge facility featuring modern classrooms, research labs, and collaborative spaces.",
+      "metadata": {
+        "location": "Gates Hall",
+        "type": "campus_building",
+        "image_url": "https://www.archdaily.com/565115/bill-and-melinda-gates-hall-morphosis-architects/545c3d72e58ece1e47000057-bill-and-melinda-gates-hall-morphosis-architects-image"
+      }
+    },
+    {
+      "description": "Gates Hall was a hub for all things computing and tech. There were little study pods on each floor that I used very often for my online meetings. It was great for privacy but very stuffy and tight feeling.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Gates Hall",
+        "memory": "study",
+        "setting": "campus"
+      }
+    },
+    {
+      "description": "Rhodes Hall is an academic and research building on Cornell's campus, housing programs related to engineering and computer science. It is also home to the Cornell Theory Center.",
+      "metadata": {
+        "location": "Rhodes Hall",
+        "type": "campus_building",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rhodes_Hall_aka_Theory_Center_at_Cornell_University.jpg"
+      }
+    },
+    {
+      "description": "Rhodes Hall was always buzzing with students from computer science and information science. I remember spending hours in the building for office hours, but almost always got the help I needed. One day I skipped all of my classes to attend every office hour session to complete an assignment before the deadline.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Rhodes Hall",
+        "memory": "busy",
+        "setting": "campus"
+      }
+    },
+    {
+      "description": "The Herbert F. Johnson Museum of Art is a cultural landmark on Cornell's campus, featuring an extensive collection of artwork and stunning views of Cayuga Lake.",
+      "metadata": {
+        "location": "Johnson Museum of Art",
+        "type": "campus_landmark",
+        "image_url": "https://en.wikipedia.org/wiki/File:Johnson-museum-of-art-cornell.JPG"
+      }
+    },
+    {
+      "description": "The Johnson Museum of Art was a highlight of my time at Cornell. I loved visiting it for its art collections and the breathtaking views of Cayuga Lake. It was a great place to reflect and get inspired.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Johnson Museum of Art",
+        "memory": "inspiring",
+        "setting": "cultural"
+      }
+    },
+    {
+      "description": "Risley Hall is a residential building known for its creative and artistic community, housing students passionate about the arts and culture.",
+      "metadata": {
+        "location": "Risley Hall",
+        "type": "campus_building",
+        "image_url": "https://en.wikipedia.org/wiki/File:Risley_Hall,_Cornell_University.jpg"
+      }
+    },
+    {
+      "description": "Risley Hall was known for its creative vibe. There was a lovely dining hall that I liked. They hosted a Harry Potter themed dinner once and served butter beer and other themed dishes. It tasted great.",
+      "metadata": {
+        "type": "personal_memory",
+        "location": "Risley Hall",
+        "memory": "fun",
+        "setting": "residential"
+      }
+    },
+    {
+      "description": "The image depicts a modern building with a striking design, featuring a unique blend of materials and architectural elements.\n\n**Main Subject(s) or People in the Photo:**\n\n* The building is the primary focus of the image, showcasing its sleek and contemporary design.\n* There are no people visible in the photo.\n\n**Location or Setting:**\n\n* The building appears to be situated in an urban or suburban area, surrounded by other structures.\n* The presence of a road or sidewalk in the foreground suggests that the building is located in a populated area.\n\n**Time of Day and Weather Conditions:**\n\n* The image was taken during the evening or at night, as evidenced by the warm glow of the building's interior lights.\n* The sky above is dark and cloudy, with a hint of stormy weather.\n\n**Colors and Visual Elements that Stand Out:**\n\n* The building's exterior features a predominantly white color scheme, accented with warm orange lighting that highlights its unique design elements.\n* The cloudy sky adds a sense of drama and atmosphere to the image.\n\n**Visible Emotions or Actions:**\n\n* There are no visible emotions or actions in the photo, as it is a static image of a building.\n\n**Significant Objects or Landmarks:**\n\n* The building itself is a notable landmark, with its distinctive design and modern architecture making it stand out from the surrounding environment.\n* The road or sidewalk in the foreground serves as a transition zone between the building and the surrounding area.\n\n**Text or Signs Visible in the Image:**\n\n* A sign reading \"GATES HALL\" is visible on the front of the building, providing a sense of identity and purpose.\n\n**Clothing or Attire of People (if Applicable):**\n\n* There are no people visible in the photo, so there is no clothing or attire to report.\n\n**Surrounding Environment or Background Details:**\n\n* The building is situated in a relatively flat, open area, with no significant hills or mountains in the background.\n* The surrounding environment appears to be a mix of urban and natural elements, with trees and greenery visible in the distance.\n\n**Overall Mood or Atmosphere of the Scene:**\n\n* The image conveys a sense of modernity and sophistication, with the building's sleek design and warm lighting creating a welcoming atmosphere.\n* The cloudy sky adds a touch of drama and tension, hinting at the possibility of a storm brewing in the distance.",
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: The image showcases a modern building with a striking design, featuring a unique combination of materials and architectural elements.\n\n* **Main Subject:**\n\t+ The building's facade is primarily composed of glass and metal panels, with a predominantly silver color scheme.\n\t+ A large overhang, supported by white concrete pillars, extends from the second floor, creating a sense of depth and dimensionality.\n\t+ The entrance is marked by a prominent sign reading \"CAMPUS HALL I,\" suggesting that the building serves as a central hub for campus activities.\n\n* **Location/Setting:**\n\t+ The building is situated in an urban or suburban area, with a road running in front of it.\n\t+ The surrounding landscape is characterized by a mix of greenery and concrete, with trees and grass visible in the background.\n\t+ The presence of other buildings in the distance suggests that the structure is part of a larger campus or complex.\n\n* **Time of Day and Weather:**\n\t+ The image appears to have been taken during the late afternoon or early evening, as the sky is overcast and the lighting is soft and warm.\n\t+ The clouds are dark and foreboding, suggesting that a storm may be approaching.\n\n* **Colors and Visual Elements:**\n\t+ The dominant colors of the image are silver, white, and gray, which give the building a sleek and modern appearance.\n\t+ The use of warm lighting inside the building creates a cozy and inviting atmosphere, contrasting with the cool tones of the exterior.\n\t+ The concrete pillars supporting the overhang add a touch of industrial chic to the design.\n\n* **Emotions or Actions:**\n\t+ There are no visible people or animals in the image, so it is unclear what emotions or actions may be taking place.\n\t+ The overall mood of the image is one of calmness and serenity, despite the ominous weather forecast.\n\n* **Significant Objects or Landmarks:**\n\t+ The building itself is the most significant object in the image, with its unique design and architectural features making it a standout landmark.\n\t+ The road running in front of the building serves as a focal point, drawing the viewer's attention to the structure.\n\t+ The surrounding trees and grass add a natural element to the scene, providing a sense of balance and harmony.\n\n* **Text or Signs:**\n\t+ The prominent sign reading \"CAMPUS HALL I\" is the only text visible in the image.\n\t+ The sign"
+        },
+        {
+          "role": "assistant",
+          "content": "This building looks so striking with its modern design and inviting atmosphere! Can you tell me if you\u2019ve had any experiences at Campus Hall I or what it means to you?"
+        }
+      ]
+    },
+    {
+      "description": "The image showcases the exterior of a modern building, likely a university or research facility, set against a dramatic backdrop of dark clouds and a stormy sky.\n\n**Main Subject:**\nThe building's sleek design features a predominantly glass facade with a unique, angular structure that extends from the main body. The entrance is marked by a striking, geometric sculpture that adds visual interest to the front of the building. A prominent sign reading \"GATES HALL\" is visible on the front of the building, although the rest of the text is illegible.\n\n**Location and Setting:**\nThe building is situated in a suburban area, surrounded by grassy fields and trees. The stormy weather adds a sense of drama to the scene, with dark clouds looming overhead.\n\n**Time of Day and Weather Conditions:**\nThe image was taken during the evening or early morning hours, as evidenced by the low light levels and the presence of streetlights illuminating the entrance. The stormy weather creates a moody atmosphere, with the dark clouds and overcast sky contributing to the overall mood.\n\n**Colors and Visual Elements:**\nThe building's glass facade reflects the surrounding environment, creating a sense of depth and visual interest. The geometric sculpture at the entrance adds a pop of color with its warm lighting, which contrasts with the cool tones of the surrounding architecture. The dark clouds and overcast sky provide a dramatic backdrop for the building, while the grassy fields and trees add a touch of natural beauty to the scene.\n\n**Emotions and Actions:**\nThere are no visible emotions or actions in the image, as it appears to be a static photograph of the building's exterior. However, the dramatic lighting and stormy weather create a sense of tension and energy, suggesting that something is about to happen or that the scene is on the verge of changing.\n\n**Significant Objects or Landmarks:**\nThe building itself is the most significant object in the image, with its unique design and architecture making it a notable landmark. The geometric sculpture at the entrance adds an artistic element to the scene, while the surrounding fields and trees provide a sense of context and location.\n\n**Text and Signs:**\nThe sign reading \"GATES HALL\" is the only text visible in the image, although there may be other signs or markings on the building that are not legible.\n\n**Clothing and Attire:**\nThere are no people visible in the image, so there is no clothing or attire to report.\n\n**Surrounding Environment",
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: The image depicts a modern building with a striking design, set against a dramatic cloudy sky. The building's fa\u00e7ade is composed of glass and metal, with a prominent overhang that creates a sense of depth and dimensionality. The entrance is marked by a large glass door, flanked by two smaller doors on either side, which are partially obscured by the overhang.\n\nThe building's design is characterized by clean lines, geometric shapes, and a minimalist aesthetic, giving it a sleek and contemporary appearance. The use of glass and metal creates a sense of transparency and openness, while the overhang adds a touch of drama and sophistication.\n\nIn the foreground, a small hill or mound is visible, topped with a cluster of large, angular rocks or sculptures. These sculptures appear to be made of concrete or stone and are arranged in a deliberate pattern, adding to the building's sense of modernity and architectural interest.\n\nThe surrounding environment is characterized by a grassy area to the right of the building, which provides a subtle contrast to the building's sleek, urban design. In the background, a few trees and buildings are visible, suggesting that the building is located in a urban or suburban setting.\n\nThe overall mood of the image is one of modernity and sophistication, with the building's sleek design and dramatic overhang creating a sense of drama and interest. The cloudy sky adds a touch of melancholy to the scene, but the building's bright lights and modern architecture suggest a sense of energy and vitality.\n\nThe text \"GATES HALL\" is visible on the building, which suggests that it may be a university or academic building. The building's design and location suggest that it may be a hub of learning and intellectual activity, and the image as a whole conveys a sense of innovation and progress.\n\nOverall, the image presents a striking and modern building that is likely to be a focal point of attention in its surroundings. Its sleek design, dramatic overhang, and bright lights create a sense of drama and interest, while its location in a urban or suburban setting suggests a sense of connection to the community."
+        },
+        {
+          "role": "assistant",
+          "content": "What a stunning building with such a modern and inviting design! It sounds like a place full of energy and creativity. Do you have any special memories or experiences related to this building?"
+        }
+      ]
+    },
+    {
+      "description": "The image depicts a large, modern building with a striking architectural design. The structure features a glass and metal facade, with a prominent entranceway that is illuminated from within, creating a warm glow against the otherwise dark and cloudy sky. The building's design is characterized by clean lines, geometric shapes, and an emphasis on natural light, giving it a futuristic and sleek appearance.\n\nIn the foreground, a concrete walkway leads up to the entrance, flanked by a series of abstract sculptures that add to the building's artistic and innovative aesthetic. The surrounding environment is largely urban, with other buildings visible in the background, suggesting that the structure is part of a larger complex or campus.\n\nThe overall mood of the image is one of modernity and sophistication, with the building's sleek design and the dramatic lighting creating a sense of drama and visual interest. The cloudy sky adds a touch of melancholy to the scene, but the building's bright lights and vibrant colors help to counterbalance this effect, creating a sense of optimism and energy. Overall, the image presents a striking and thought-provoking visual representation of modern architecture and design.",
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: None"
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: None"
+        },
+        {
+          "role": "assistant",
+          "content": "It seems like there\u2019s no specific image to reflect on right now. But I\u2019d love to hear about a memory or experience that stands out to you. Is there a moment that brings you joy when you think back on it?"
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: None"
+        },
+        {
+          "role": "assistant",
+          "content": "It seems like there\u2019s no image description to work with. But that\u2019s okay! Can you tell me about a memorable moment or experience you\u2019d like to share?"
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: None"
+        },
+        {
+          "role": "assistant",
+          "content": "It seems like there\u2019s no image description available. But that's okay! Is there a particular memory or experience you\u2019d like to share with me today?"
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: None"
+        },
+        {
+          "role": "assistant",
+          "content": "It seems like there\u2019s no image to describe, but I'm here to help you with your memories! Is there a particular moment or experience you'd like to share today?"
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Image description: None"
+        },
+        {
+          "role": "assistant",
+          "content": "It seems like we don't have an image description to work with right now. But that's okay! Is there a particular memory or moment you'd like to share with me?"
+        }
+      ]
+    },
+    {
+      "description": null,
+      "metadata": {
+        "location": "",
+        "date": "",
+        "people": [],
+        "emotions": [],
+        "activity": ""
+      },
+      "conversation": [
+        {
+          "role": "system",
+          "content": "\n        You are a Retrieval-Augmented Visual Memory Assistant called DejaVu designed to help memory-impaired individuals \n        enrich their memories and recall details about their experiences. \n\n        Your goal is to engage the user in a **natural, conversational manner**. Do not provide lists, \n        numbered responses, or multiple suggestions in one reply. Keep your answers **clear, concise, and engaging**.\n\n        Start by analyzing the provided image description. Summarize it in one positive, friendly sentence, \n        then follow up with a single conversational question to encourage the user to share more details. \n        Focus on personal experiences, emotions, and meaningful moments.\n\n        Conclude the conversation when you have gathered enough meaningful context by:\n        - Thanking the user for sharing their memories.\n        - Asking if there is anything else they would like to add.\n        - Politely signaling the end of the memory-annotation process if the user has no additional input.\n\n        Example:\n        Input: \"A group of people sitting on the grass in front of a large brick building.\"\n        Output: \"This looks like such a cheerful day with friends! Can you share where this photo was taken?\"\n\n        Additional Instructions:\n        - Use empathetic and supportive language.\n        - Avoid repeating questions or providing overly lengthy responses.\n        - If the user struggles to recall details, gently encourage them without pressure.\n        "
+        },
+        {
+          "role": "user",
+          "content": "Yes, this image is a part of the campus that I went to for University Cornell. UH walked by it a lot of times on my way to the library."
+        },
+        {
+          "role": "assistant",
+          "content": "It sounds like you have some fond memories of your time at Cornell, especially those walks to the library! What was your favorite part about studying there?"
+        }
+      ]
+    }
+  ]
+}
