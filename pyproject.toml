@@ -3,10 +3,17 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "MemoryChatbotAI"
+name = "memoryaiassistant"
 version = "1.0.0"
 description = "A chatbot app powered by OpenAI and Streamlit"
 authors = ["Natalia Jordan <private>"]
+include = [
+  "memoryaiassistant_pkg/data/*"
+]
+
+[[tool.poetry.packages]]
+include = "memoryaiassistant_pkg"
+
 
 [tool.poetry.dependencies]
 python = "^3.11"
@@ -21,6 +28,8 @@ s3fs = "*"
 pydub = "^0.25.1"
 Markdown = "^3.7"
 cffi = "1.16.0"
+wheel = "^0.37.1"
+
 
 [tool.poetry.group.dev.dependencies]
 cfn_flip = "*"
