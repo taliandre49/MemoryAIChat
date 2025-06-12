@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry]
 name = "MemoryChatbotAI"
 version = "1.0.0"
-description = ""
+description = "A chatbot app powered by OpenAI and Streamlit"
 authors = ["Natalia Jordan <private>"]
 
 [tool.poetry.dependencies]
