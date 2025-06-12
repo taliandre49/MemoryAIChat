@@ -11,4 +11,3 @@ pydub
 markdown
 openai
 cffi==1.16.0
---only-binary=:all:
