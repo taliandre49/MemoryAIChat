@@ -3,10 +3,10 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "INFO 5940"
+name = "MemoryChatbotAI"
 version = "1.0.0"
 description = ""
-authors = ["Ayham Boucher <private>"]
+authors = ["Natalia Jordan <private>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
