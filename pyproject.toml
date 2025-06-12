@@ -32,6 +32,7 @@ wheel = "^0.37.1"
 transformers = "^4.52.4"
 chromadb = "^1.0.12"
 torch = "^2.7.1"
+audio-recorder-streamlit = "^0.0.10"
 
 
 [tool.poetry.group.dev.dependencies]
