@@ -88,9 +88,9 @@ streamlit run welcome.py
 
 ## 📸 Example Use Cases
 
-* “Log a memory from today with this photo and my voice.”
+* “This Beach is the Beach I met my Fiance, the weather was beautiful that day!”
 * “Remind me of times I mentioned my dog in voice notes.”
-* “Did I ever visit the beach with Mingyi?”
+* “Did I ever visit the beach with John?”
 * “What memories are tagged with ‘joyful’ and ‘New York’?”
 
 ---
