@@ -20,7 +20,7 @@ pydantic = "^2"
 s3fs = "*"
 pydub = "^0.25.1"
 Markdown = "^3.7"
-cffi== "1.16.0"
+cffi = "1.16.0"
 
 [tool.poetry.group.dev.dependencies]
 cfn_flip = "*"
