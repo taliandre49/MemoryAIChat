@@ -62,7 +62,20 @@ LLAMA_API_URL=your_llama_endpoint
 Using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit
+pip install azure-cognitiveservices-speech
+pip install transformers
+pip install Pillow
+pip install requests
+pip install torch
+pip install gtts
+pip install Audio-recorder-streamlit
+pip install chromadbx
+pip install pydub
+pip install markdown
+pip install transformers -U
+poetry install
+poetry lock [--no-update]
 ```
 
 ### 4. Run the app
