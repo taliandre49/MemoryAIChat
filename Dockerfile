@@ -10,6 +10,8 @@ COPY ./pyproject.toml ./poetry.lock* ./
 RUN poetry install --no-dev --no-interaction --no-ansi --no-root -vv \
     && rm -rf /root/.cache/pypoetry
 
+RUN apt-get update && apt-get install -y libsqlite3-dev
+
 # Dev Container
 FROM base as devcontainer
 
