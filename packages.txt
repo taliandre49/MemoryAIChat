@@ -1,2 +1,4 @@
 libffi-dev
+libsqlite3-dev
+
 
