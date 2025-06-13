@@ -3,7 +3,7 @@ from PIL import Image
 import io
 import json
 import openai
-from transformers import AutoProcessor, AutoModelForCausalLM  
+# from transformers import AutoProcessor, AutoModelForCausalLM  
 from PIL import Image
 from io import BytesIO
 import base64
@@ -14,7 +14,7 @@ from openai import AzureOpenAI
 import json
 # import azure
 import azure.cognitiveservices.speech as speechsdk
-from transformers import AutoProcessor, AutoModelForCausalLM  
+# from transformers import AutoProcessor, AutoModelForCausalLM  
 from PIL import Image
 from io import BytesIO
 import requests
@@ -257,7 +257,7 @@ def run_chatbot(image_description):
         """
         
     client = OpenAI(api_key= OpenAI_API_KEY)
-
+    prompt = ''
     
     response = client.chat.completions.create(
         model="gpt-4o-mini",
