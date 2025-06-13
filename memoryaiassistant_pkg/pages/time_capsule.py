@@ -20,8 +20,8 @@ import os
 __import__('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-app_loger = logger.get_logger("MemoryAIAPLog")
-app_loger.log(f"sqlite version: {sqlite3.sqlite_version}")
+# app_loger = logger.get_logger("MemoryAIAPLog")
+# app_loger.log(f"sqlite version: {sqlite3.sqlite_version}")
 
 chromadb.api.client.SharedSystemClient.clear_system_cache()
 
