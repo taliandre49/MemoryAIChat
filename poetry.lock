@@ -3623,13 +3623,13 @@ poetry-core = ">=1.7.0,<3.0.0"
 
 [[package]]
 name = "posthog"
-version = "4.9.0"
+version = "4.10.0"
 description = "Integrate PostHog into any python application."
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "posthog-4.9.0-py3-none-any.whl", hash = "sha256:6c62d91ce7ab979a67becb82671028d8956b0c4deeff5bec07e6af0576752989"},
-    {file = "posthog-4.9.0.tar.gz", hash = "sha256:5d581bb8f44542727e20a16ea565aa32a2345060269c3bd70c1e0250fbb258fa"},
+    {file = "posthog-4.10.0-py3-none-any.whl", hash = "sha256:b693d3d8209d000d8c5f4d6ea19096bfdfb83047fa8a14c937ae50a3394809a1"},
+    {file = "posthog-4.10.0.tar.gz", hash = "sha256:513bfbb21344013294abc046b1142173189c5422a3906cf2280d1389b0c2e28b"},
 ]
 
 [package.dependencies]
