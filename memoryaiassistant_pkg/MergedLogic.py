@@ -43,7 +43,9 @@ OpenAI_API_KEY = os.getenv("OpenAI_APIKEY")
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
 
-import sqlite3
+# import sqlite3
+import pysqlite3 as sqlite3
+
 from streamlit import logger
 __import__('pysqlite3')
 import sys

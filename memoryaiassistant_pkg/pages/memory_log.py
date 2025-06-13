@@ -29,7 +29,9 @@ from dotenv import load_dotenv, find_dotenv
 from pydub import AudioSegment
 import random
 from openai import OpenAI
-import sqlite3
+# import sqlite3
+import pysqlite3 as sqlite3
+
 from streamlit import logger
 __import__('pysqlite3')
 import sys

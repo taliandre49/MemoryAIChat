@@ -11,7 +11,9 @@ import chromadb.api
 import json
 from dotenv import load_dotenv, find_dotenv
 from streamlit import logger
-import sqlite3
+# import sqlite3
+import pysqlite3 as sqlite3
+
 import os
 
 

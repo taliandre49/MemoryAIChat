@@ -6,7 +6,9 @@ from openai import OpenAI
 from chromadb import Documents, EmbeddingFunction, Embeddings
 from chromadbx import UUIDGenerator
 import json
-import sqlite3
+# import 
+import pysqlite3 as sqlite3
+
 from streamlit import logger
 __import__('pysqlite3')
 import sys
