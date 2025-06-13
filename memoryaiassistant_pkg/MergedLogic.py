@@ -4,7 +4,7 @@ from audio_recorder_streamlit import audio_recorder
 from pydub import AudioSegment
 import markdown
 import json
-import azure
+# import azure
 import azure.cognitiveservices.speech as speechsdk
 from transformers import AutoProcessor, AutoModelForCausalLM  
 from PIL import Image

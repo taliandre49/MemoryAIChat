@@ -12,7 +12,7 @@ from pydub import AudioSegment
 import markdown
 from openai import AzureOpenAI
 import json
-import azure
+# import azure
 import azure.cognitiveservices.speech as speechsdk
 from transformers import AutoProcessor, AutoModelForCausalLM  
 from PIL import Image
