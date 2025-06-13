@@ -3,3 +3,5 @@
 **/*.yml
 /docker-compose.yml
 **/.env
+requirements.txt
+requirmentsOld.txt
