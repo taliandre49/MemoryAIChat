@@ -10,12 +10,16 @@ import random
 import chromadb.api
 import json
 from dotenv import load_dotenv, find_dotenv
-
+from streamlit import logger
 import sqlite3
 import os
 
-# Ensure python uses its own sqlite3 instead of a system one
-print("SQLite3 version used by Python:", sqlite3.sqlite_version)
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+app_loger = logger.get_logger("MemoryAIAPLog")
+app_loger.log(f"sqlite version: {sqlite3.sqlite_version}")
+
 chromadb.api.client.SharedSystemClient.clear_system_cache()
 
 

@@ -6,13 +6,16 @@ from openai import OpenAI
 from chromadb import Documents, EmbeddingFunction, Embeddings
 from chromadbx import UUIDGenerator
 import json
-
-
 import sqlite3
-import os
+from streamlit import logger
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+app_loger = logger.get_logger("MemoryAIAPLog")
+app_loger.log(f"sqlite version: {sqlite3.sqlite_version}")
 
-# Ensure python uses its own sqlite3 instead of a system one
-print("SQLite3 version used by Python:", sqlite3.sqlite_version)
+# # Ensure python uses its own sqlite3 instead of a system one
+# print("SQLite3 version used by Python:", sqlite3.sqlite_version)
 
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
