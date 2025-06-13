@@ -8,6 +8,11 @@ dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 OpenAI_API_KEY = os.getenv("OpenAI_APIKEY")
 
+import sqlite3
+import os
+
+# Ensure python uses its own sqlite3 instead of a system one
+print("SQLite3 version used by Python:", sqlite3.sqlite_version)
 
 class MyEmbeddingFunction(EmbeddingFunction):
     def __call__(self, input_content: Documents) -> Embeddings:

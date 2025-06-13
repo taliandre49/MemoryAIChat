@@ -8,9 +8,16 @@ import json
 import streamlit as st
 import random
 import chromadb.api
-chromadb.api.client.SharedSystemClient.clear_system_cache()
 import json
 from dotenv import load_dotenv, find_dotenv
+
+import sqlite3
+import os
+
+# Ensure python uses its own sqlite3 instead of a system one
+print("SQLite3 version used by Python:", sqlite3.sqlite_version)
+chromadb.api.client.SharedSystemClient.clear_system_cache()
+
 
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)

@@ -43,6 +43,11 @@ OpenAI_API_KEY = os.getenv("OpenAI_APIKEY")
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
 
+import sqlite3
+import os
+
+# Ensure python uses its own sqlite3 instead of a system one
+print("SQLite3 version used by Python:", sqlite3.sqlite_version)
 
 chromadb.api.client.SharedSystemClient.clear_system_cache()
 
