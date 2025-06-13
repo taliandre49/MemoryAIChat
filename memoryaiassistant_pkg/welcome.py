@@ -1,4 +1,8 @@
 import streamlit as st
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 # Add Font Awesome library for icons
 st.markdown("""

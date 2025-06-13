@@ -25,7 +25,7 @@ RUN apt-get update \
     python3-dev \
     sqlite3 \
     && rm -rf /var/lib/apt/lists/* \
-    && apt-get clean 
+    && apt-get clean
 
 RUN curl "https://awscli.amazonaws.com/awscli-exe-linux-$(uname -m).zip" -o "awscliv2.zip" \
     && unzip awscliv2.zip \
