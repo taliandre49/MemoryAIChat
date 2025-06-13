@@ -16,7 +16,7 @@ include = "memoryaiassistant_pkg"
 
 
 [tool.poetry.dependencies]
-python = ">=3.11,<3.13"
+python = ">=3.10,<3.13"
 aioboto3 = "^12"
 streamlit = "^1.0"
 fsspec = "*"
