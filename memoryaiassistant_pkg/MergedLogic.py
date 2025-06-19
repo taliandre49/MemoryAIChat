@@ -424,8 +424,8 @@ def send_image_to_openai(base64_image):
         ]
         while True:
             response = client.chat.completions.create(
-                # was meta.llmama
-                model="llama-3.2-11b-vision-instruct",  # Replace with your model name
+                # was meta.llama-3.2-11b-vision-instruct"
+                model="gpt-4o",  # Replace with your model name
                 messages=prompt,
                 max_tokens=500,  # Adjust as needed
                 temperature=0.7
