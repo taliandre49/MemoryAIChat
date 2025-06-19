@@ -106,7 +106,7 @@ elif st.session_state.page == 'time_capsule':
 
 st.subheader("How It Works")
 st.markdown("""
-1. **Log a memory** by uploading a picture and having a conversation with our AI about it.
+1. **Log a memory** by uploading a picture and having a conversation with the AI about it.
 2. Use the **time capsule** feature to learn about a past memory.
 """)
 
