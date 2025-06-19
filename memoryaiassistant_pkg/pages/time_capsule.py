@@ -12,16 +12,17 @@ import json
 from dotenv import load_dotenv, find_dotenv
 from streamlit import logger
 # import sqlite3
-import pysqlite3 as sqlite3
 
-import os
+#### Uncomment here before deployment:
+
+import pysqlite3 as sqlite3
 
 
 __import__('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-# app_loger = logger.get_logger("MemoryAIAPLog")
-# app_loger.log(f"sqlite version: {sqlite3.sqlite_version}")
+
+
 
 chromadb.api.client.SharedSystemClient.clear_system_cache()
 
@@ -192,23 +193,24 @@ with open("seed_data.json", "r") as f:
 def generate_prompt_buttons(data, num_buttons=5):
     prompts = []
     for item in data:
-        if "location" in item["metadata"]:
+        if "location" in item["metadata"] and item["metadata"]["location"]:
             prompts.append(item["metadata"]["location"])
-        if "class_year" in item["metadata"]:
+        if "class_year" in item["metadata"] and item["metadata"]["class_year"]:
             prompts.append(item["metadata"]["class_year"])
-        if "name" in item["metadata"]:
+        if "name" in item["metadata"] and item["metadata"]["name"]:
             prompts.append(item["metadata"]["name"])
     
     return random.sample(prompts, min(num_buttons, len(prompts)))
 
 prompt_buttons = generate_prompt_buttons(seed_data)
 
-
 st.write("Enter a question in chat or spark a memory by exploring your time capsules with topics like:")
 cols = st.columns(len(prompt_buttons))
 for i, prompt in enumerate(prompt_buttons):
-    if cols[i].button(prompt, key=f"prompt_button_{i}"):
-        metadata = tagging(prompt)
-        documents = retrieve_document(collection, prompt, json.loads(metadata[7:-3]))
-        augmentation_process(documents)
+    with cols[i]:
+
+        if cols[i].button(prompt, key=f"prompt_button_{i}"):
+            metadata = tagging(prompt)
+            documents = retrieve_document(collection, prompt, json.loads(metadata[7:-3]))
+            augmentation_process(documents)
 

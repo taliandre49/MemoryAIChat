@@ -59,7 +59,11 @@ st.markdown("""
 
     </style>
 """, unsafe_allow_html=True)
-st.title("Déjà vu!")
+st.title("Memory Ally!")
+st.markdown(
+    '<p style="font-size:18px; color:#666;">Your AI-powered Visual Memory Assistant companion for capturing, recalling, and exploring your most meaningful memories through voice, text, and images, bringing your past vividly to life.</p>',
+    unsafe_allow_html=True
+)
 
 if 'page' not in st.session_state:
     st.session_state.page = 'home'
